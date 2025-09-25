@@ -1,17 +1,6 @@
 <div align="center">
   
 	# 🎉 Random Message Generator
-  
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  
-	<br>
-	<strong>Generate a random, uplifting message with a single click!</strong>
-	<br><br>
-	<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Random Message" />
-</div>
-
----
 
 ## 🚀 Try It Out
 
